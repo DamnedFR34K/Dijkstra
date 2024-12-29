@@ -3,7 +3,7 @@
 Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra con visualizzazione di **Tutti i Cammini Minimi** e con **Archi Direzionabili**
 
 > [!NOTE]
-> Progetto scolastico
+> Progetto scolastico 🎓
 
 
 
